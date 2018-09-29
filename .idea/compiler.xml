@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="microservice-consumer-movie" />
         <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-consumer-movie-ribbon-properties-customizing" />
         <module name="microservice-discover-eureka" />
         <module name="microservice-provider-user" />
         <module name="microservice-service" />
@@ -20,6 +21,7 @@
       <module name="microservice-cloud-parent" target="1.8" />
       <module name="microservice-consumer-movie" target="1.8" />
       <module name="microservice-consumer-movie-ribbon" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon-properties-customizing" target="1.8" />
       <module name="microservice-discover-eureka" target="1.8" />
       <module name="microservice-discovery-eurka" target="1.8" />
       <module name="microservice-provider-eureka" target="1.8" />

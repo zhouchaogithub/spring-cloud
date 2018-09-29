@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-consumer-movie-ribbon" />
+        <module name="microservice-discover-eureka" />
+        <module name="microservice-provider-user" />
+        <module name="microservice-service" />
+        <module name="microservice-simple-movie" />
+        <module name="microservice-simple-user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="microservice-cloud" target="1.8" />
+      <module name="microservice-cloud-parent" target="1.8" />
+      <module name="microservice-consumer-movie" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon" target="1.8" />
+      <module name="microservice-discover-eureka" target="1.8" />
+      <module name="microservice-discovery-eurka" target="1.8" />
+      <module name="microservice-provider-eureka" target="1.8" />
+      <module name="microservice-provider-eurka" target="1.8" />
+      <module name="microservice-provider-user" target="1.8" />
+      <module name="microservice-service" target="1.8" />
+      <module name="microservice-simple-movie" target="1.8" />
+      <module name="microservice-simple-user" target="1.8" />
+      <module name="microservicecloud" target="1.5" />
+      <module name="microservicecloudparent" target="1.8" />
+      <module name="microserviceprovideruser" target="1.8" />
+      <module name="microservicesimpleuser" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

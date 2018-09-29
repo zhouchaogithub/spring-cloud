@@ -7,10 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/microservice-consumer-movie-ribbon.iml" filepath="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/microservice-consumer-movie-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/microservice-discover-eureka.iml" filepath="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/microservice-discover-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-provider-user/microservice-provider-user.iml" filepath="$PROJECT_DIR$/microservice-cloud-parent/microservice-provider-user/microservice-provider-user.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/microservice-service.iml" filepath="$PROJECT_DIR$/.idea/microservice-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-movie/microservice-simple-movie.iml" filepath="$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-movie/microservice-simple-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-user/microservice-simple-user.iml" filepath="$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-user/microservice-simple-user.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microservicecloud/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud/microservicecloud.iml" />
     </modules>
   </component>
 </project>

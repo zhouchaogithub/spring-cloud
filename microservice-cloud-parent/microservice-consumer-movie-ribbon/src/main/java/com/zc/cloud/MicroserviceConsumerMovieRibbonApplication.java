@@ -1,19 +1,21 @@
 package com.zc.cloud;
 
-import com.zc.config.TestConfiguration;
+import com.zc.config.TestConfiguration1;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.FilterType;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-@Configuration
 @EnableEurekaClient
-@RibbonClient(name = "microservice-provider-user", configuration = TestConfiguration.class)
+//@RibbonClient(name = "MICROSERVICE-PROVIDER-USER", configuration = TestConfiguration1.class)
+@ComponentScan(excludeFilters = {@ComponentScan.Filter(type = FilterType.ANNOTATION,value = ExcludeFromComponentScanner.class)})
+@RibbonClient(name = "MICROSERVICE-PROVIDER-USER", configuration = TestConfiguration2.class)
 public class MicroserviceConsumerMovieRibbonApplication {
 
     public static void main(String[] args) {

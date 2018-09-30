@@ -1,0 +1,29 @@
+server:
+    port: 8086
+spring:
+    application:
+        name: microservice-consumer-movie-ribbon
+management:
+    #    security:
+    #        enabled: false #报错是因为这个配置在当前版本中已经失效了
+    endpoints:
+        web:
+            exposure:
+                include: "*"
+eureka:
+    client:
+        healthcheck:
+            enabled: true
+        service-url:
+            defaultZone: http://user:password123@localhost:8761/eureka
+    instance:
+        hostname: 192.168.0.174
+        instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
+        prefer-ip-address: true
+ribbon:
+    eureka:
+        enabled: false
+#配置服务参与负载均衡的部署服务地址集合，多个地址中间用逗号分隔
+microservice-provider-user:
+    ribbon:
+        listOfServers: localhost:8083

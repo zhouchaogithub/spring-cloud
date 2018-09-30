@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/microservicecloudparent/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-cloud-parent/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-properties-customizing/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

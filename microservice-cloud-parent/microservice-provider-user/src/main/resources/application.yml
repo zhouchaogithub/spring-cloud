@@ -1,5 +1,5 @@
 server:
-    port: 8083
+    port: 7979
 spring:
     application:
         name: microservice-provider-user

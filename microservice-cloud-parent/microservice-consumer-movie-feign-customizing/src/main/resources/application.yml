@@ -13,3 +13,6 @@ eureka:
         hostname: 192.168.43.71
         instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
         prefer-ip-address: true
+logging:
+    level:
+        com.zc.cloud.dao.UserFeignClient: debug

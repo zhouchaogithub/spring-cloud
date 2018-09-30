@@ -16,3 +16,9 @@ eureka:
 logging:
     level:
         com.zc.cloud.dao.UserFeignClient: debug
+#此方法最好，有效时间内都不能相应要么增加服务器配置、网络带宽，要不就洗洗睡吧
+#hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 5000
+#此方法不知道好坏，随便吧，我电脑配置还行，没怎么遇到超时timeout
+#hystrix.command.default.execution.timeout.enabled: false
+#禁用feign的hystrix（此方法不建议使用，因为hystrix断路器还有用呢，禁用了用啥？？？）
+#feign.hystrix.enabled: false

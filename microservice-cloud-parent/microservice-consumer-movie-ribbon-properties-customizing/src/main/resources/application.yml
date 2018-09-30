@@ -1,9 +1,8 @@
 server:
-    port: 58080
+    port: 8086
 spring:
     application:
         name: microservice-consumer-movie-ribbon
-
 management:
 #    security:
 #        enabled: false #报错是因为这个配置在当前版本中已经失效了
@@ -26,6 +25,6 @@ user:
 #配置文件配置ribbon负载均衡的相关配置
 microservice-provider-user:
     ribbon:
-#        NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
+        # NIWSServerListClassName: com.netflix.loadbalancer.ConfigurationBasedServerList
         #按响应时间设置权重规则的负载均衡方式
         NFLoadBalancerRuleClassName: com.netflix.loadbalancer.WeightedResponseTimeRule

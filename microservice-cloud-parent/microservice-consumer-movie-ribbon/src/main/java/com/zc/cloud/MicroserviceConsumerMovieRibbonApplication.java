@@ -17,9 +17,7 @@ import org.springframework.web.client.RestTemplate;
 @ComponentScan(excludeFilters = {@ComponentScan.Filter(type = FilterType.ANNOTATION,value = ExcludeFromComponentScanner.class)})
 @RibbonClient(name = "MICROSERVICE-PROVIDER-USER", configuration = TestConfiguration2.class)
 public class MicroserviceConsumerMovieRibbonApplication {
-
     public static void main(String[] args) {
-
         SpringApplication.run(MicroserviceConsumerMovieRibbonApplication.class, args);
     }
     @Bean

@@ -19,7 +19,7 @@ managerment:
     security:
         enabled: false
 server:
-    port: 58080
+    port: 8085
 spring:
     application:
         name: microservice-consumer-movie-ribbon

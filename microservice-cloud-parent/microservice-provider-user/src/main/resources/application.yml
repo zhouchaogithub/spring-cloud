@@ -24,6 +24,8 @@ eureka:
         metadata-map:
             zone: ABC
             zhouchao: zhouchaoABC
+#eureka.instance.leaseRenewalIntervalInSeconds该配置可以缩短服务注册的时间，当然，生产环境中最好使用默认配置
+#        lease-renewal-interval-in-seconds: 10
 logging:
     level:
         com:

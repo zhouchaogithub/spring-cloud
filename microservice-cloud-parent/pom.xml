@@ -9,18 +9,19 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>microservice-discover-eureka</module>
         <module>microservice-simple-user</module>
         <module>microservice-simple-movie</module>
         <module>microservice-provider-user</module>
         <module>microservice-consumer-movie</module>
-        <module>microservice-discover-eureka</module>
         <module>microservice-consumer-movie-ribbon</module>
         <module>microservice-consumer-movie-ribbon-without-eureka</module>
         <module>microservice-consumer-movie-ribbon-properties-customizing</module>
+        <module>microservice-consumer-movie-ribbon-with-hystrix</module>
+        <module>microservice-consumer-movie-ribbon-with-hystrix-propagation</module>
         <module>microservice-consumer-movie-feign-customizing</module>
         <module>microservice-consumer-movie-feign</module>
         <module>microservice-discover-eureka-high-availability</module>
-
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

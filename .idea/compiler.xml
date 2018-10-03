@@ -9,8 +9,12 @@
         <module name="microservice-consumer-movie" />
         <module name="microservice-consumer-movie-feign" />
         <module name="microservice-consumer-movie-feign-customizing" />
+        <module name="microservice-consumer-movie-feign-customizing-without-hystrix" />
+        <module name="microservice-consumer-movie-feign-hystrix" />
         <module name="microservice-consumer-movie-ribbon" />
         <module name="microservice-consumer-movie-ribbon-properties-customizing" />
+        <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+        <module name="microservice-consumer-movie-ribbon-with-hystrix-propagation" />
         <module name="microservice-consumer-movie-ribbon-without-eureka" />
         <module name="microservice-discover-eureka" />
         <module name="microservice-discover-eureka-high-availability" />
@@ -26,8 +30,12 @@
       <module name="microservice-consumer-movie" target="1.8" />
       <module name="microservice-consumer-movie-feign" target="1.8" />
       <module name="microservice-consumer-movie-feign-customizing" target="1.8" />
+      <module name="microservice-consumer-movie-feign-customizing-without-hystrix" target="1.8" />
+      <module name="microservice-consumer-movie-feign-hystrix" target="1.8" />
       <module name="microservice-consumer-movie-ribbon" target="1.8" />
       <module name="microservice-consumer-movie-ribbon-properties-customizing" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon-with-hystrix" target="1.8" />
+      <module name="microservice-consumer-movie-ribbon-with-hystrix-propagation" target="1.8" />
       <module name="microservice-consumer-movie-ribbon-without-eureka" target="1.8" />
       <module name="microservice-discover-eureka" target="1.8" />
       <module name="microservice-discover-eureka-high-availability" target="1.8" />

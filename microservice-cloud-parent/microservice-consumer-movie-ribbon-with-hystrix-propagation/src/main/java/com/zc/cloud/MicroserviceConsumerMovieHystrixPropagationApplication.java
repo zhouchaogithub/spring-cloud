@@ -15,9 +15,9 @@ import java.util.Map;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableCircuitBreaker
-public class MicroserviceConsumerMovieRibbonApplication {
+public class MicroserviceConsumerMovieHystrixPropagationApplication{
     public static void main(String[] args) {
-        SpringApplication.run(MicroserviceConsumerMovieRibbonApplication.class, args);
+        SpringApplication.run(MicroserviceConsumerMovieHystrixPropagationApplication.class, args);
     }
     @Bean
     @LoadBalanced //ribbon负载均衡（默认是轮询的方式实现负载均衡）

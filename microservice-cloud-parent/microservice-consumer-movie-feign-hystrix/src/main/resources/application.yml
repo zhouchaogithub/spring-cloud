@@ -1,8 +1,8 @@
 server:
-    port: 8086
+    port: 8089
 spring:
     application:
-        name: microservice-consumer-movie
+        name: microservice-consumer-movie-feign-hystrix
 eureka:
     client:
         healthcheck:

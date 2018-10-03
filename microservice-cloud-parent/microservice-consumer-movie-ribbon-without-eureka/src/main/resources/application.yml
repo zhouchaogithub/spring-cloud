@@ -1,8 +1,8 @@
 server:
-    port: 8086
+    port: 8093
 spring:
     application:
-        name: microservice-consumer-movie-ribbon
+        name: microservice-consumer-movie-ribbon-without-eureka
 management:
     #    security:
     #        enabled: false #报错是因为这个配置在当前版本中已经失效了

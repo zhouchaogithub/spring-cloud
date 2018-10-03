@@ -22,9 +22,9 @@ managerment:
     security:
         enabled: false
 server:
-    port: 8185
+    port: 8092
 spring:
     application:
-        name: microservice-consumer-movie-ribbon
+        name: microservice-consumer-movie-ribbon-with-hystrix-propagation
 user:
     userServicePath: http://localhost:18080/simple/

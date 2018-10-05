@@ -18,6 +18,8 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-discover-eureka/pom.xml" />

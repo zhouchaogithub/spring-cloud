@@ -19,7 +19,10 @@
         <module name="microservice-discover-eureka" />
         <module name="microservice-discover-eureka-high-availability" />
         <module name="microservice-discover-eureka-hystrix-dashboard" />
+        <module name="microservice-gateway-zuul" />
+        <module name="microservice-gateway-zuul-reg-exp" />
         <module name="microservice-hystrix-dashboard" />
+        <module name="microservice-hystrix-turbine" />
         <module name="microservice-provider-user" />
         <module name="microservice-service" />
         <module name="microservice-simple-movie" />
@@ -43,7 +46,10 @@
       <module name="microservice-discover-eureka-high-availability" target="1.8" />
       <module name="microservice-discover-eureka-hystrix-dashboard" target="1.8" />
       <module name="microservice-discovery-eurka" target="1.8" />
+      <module name="microservice-gateway-zuul" target="1.8" />
+      <module name="microservice-gateway-zuul-reg-exp" target="1.8" />
       <module name="microservice-hystrix-dashboard" target="1.8" />
+      <module name="microservice-hystrix-turbine" target="1.8" />
       <module name="microservice-provider-eureka" target="1.8" />
       <module name="microservice-provider-eurka" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />

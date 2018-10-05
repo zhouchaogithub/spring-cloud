@@ -14,12 +14,12 @@
         <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-properties-customizing/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-customzing/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-consumer-movie/pom.xml" />
         <option value="$PROJECT_DIR$/microservice-discover-eureka/pom.xml" />

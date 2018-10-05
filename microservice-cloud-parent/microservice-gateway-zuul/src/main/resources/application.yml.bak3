@@ -16,6 +16,4 @@ zuul:
     routes:
         ABC:
           path: /user-path/**
-          service-id: microservice-provider-user
-ribbon:
-    listOfServers: http://192.168.121.1:8082,http://192.168.121.1:8078
+          url: http://192.168.121.1:8082/

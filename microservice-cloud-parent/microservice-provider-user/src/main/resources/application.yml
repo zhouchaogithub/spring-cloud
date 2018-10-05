@@ -2,7 +2,7 @@ server:
     port: 8078
 spring:
     application:
-        name: microservice-provider-user
+        name: microservice-provider-user-v1
     datasource:
         driver-class-name: com.mysql.jdbc.Driver
         password: 123456

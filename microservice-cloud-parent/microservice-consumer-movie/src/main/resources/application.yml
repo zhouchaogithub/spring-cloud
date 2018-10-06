@@ -24,4 +24,4 @@ managerment:
     security:
         enabled: false
 user:
-    userServicePath: http://localhost:18080/simple/
+    userServicePath: http://localhost:8082/simple/

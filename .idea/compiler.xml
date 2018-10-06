@@ -26,6 +26,7 @@
         <module name="microservice-hystrix-turbine" />
         <module name="microservice-provider-user" />
         <module name="microservice-service" />
+        <module name="microservice-sidecar" />
         <module name="microservice-simple-movie" />
         <module name="microservice-simple-user" />
       </profile>
@@ -56,6 +57,7 @@
       <module name="microservice-provider-eurka" target="1.8" />
       <module name="microservice-provider-user" target="1.8" />
       <module name="microservice-service" target="1.8" />
+      <module name="microservice-sidecar" target="1.8" />
       <module name="microservice-simple-movie" target="1.8" />
       <module name="microservice-simple-user" target="1.8" />
       <module name="microservicecloud" target="1.5" />

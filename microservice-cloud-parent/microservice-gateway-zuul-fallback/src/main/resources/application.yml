@@ -1,5 +1,5 @@
 server:
-    port: 8096
+    port: 8097
 eureka:
     client:
         service-url:
@@ -10,7 +10,7 @@ eureka:
         prefer-ip-address: true
 spring:
     application:
-        name: microservice-gateway-zuul
+        name: microservice-gateway-zuul-fallback
 logging:
     level:
         com.netflix: debug

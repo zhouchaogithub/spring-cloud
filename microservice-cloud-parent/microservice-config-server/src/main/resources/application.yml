@@ -1,0 +1,10 @@
+server:
+  port: 9999
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/zhouchaogithub/config-repo
+  application:
+    name: microservice-config-server

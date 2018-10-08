@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="microservice-provider-user" />
+      <module name="microservice-consumer-movie" />
+      <module name="microservice-consumer-movie-ribbon" />
+      <module name="microservice-simple-user" />
+      <module name="microservice-discover-eureka" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f973ada3-6873-43a9-a82d-6310660d1389" name="Default Changelist" comment="{application}通配符">
+      <change beforePath="$PROJECT_DIR$/config-repo" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/microservice-simple-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-simple-movie/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-provider-eurka/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-discovery-eurka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-discover-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-consumer-movie-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/microservice-simple-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudparent/target/" />
+    <ignored path="$PROJECT_DIR$/microserviceprovideruser/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-movie/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-provider-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-user/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon - properties-customizing/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-properties-customizing/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-without-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-customzing/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-customizing/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka-high-availability/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-with-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-with-hystrix-propagation/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-customizing-without-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-reg-exp/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-springcloud-config/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/microservice_service$MicroserviceDiscoverEurekaApplication.ic" NAME="MicroserviceDiscoverEurekaApplication Coverage Results" MODIFIED="1537891946868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="206" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1519389300">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="45" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.126" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="5" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.56" value="2" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.68" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.opened" value="48" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="0-SNAPSHOT" value="1" />
+          <entry key="1-SNAPSHOT" value="1" />
+          <entry key="bak1" value="4" />
+          <entry key="bak2" value="1" />
+          <entry key="bak3" value="1" />
+          <entry key="bak5" value="1" />
+          <entry key="class" value="18" />
+          <entry key="groovy" value="1" />
+          <entry key="iml" value="9" />
+          <entry key="java" value="376" />
+          <entry key="pom" value="8" />
+          <entry key="properties" value="82" />
+          <entry key="sql" value="22" />
+          <entry key="xml" value="154" />
+          <entry key="yml" value="115" />
+          <entry key="yml4" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="18" />
+          <entry key="IDEA_MODULE" value="9" />
+          <entry key="JAVA" value="375" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Properties" value="82" />
+          <entry key="SQL" value="22" />
+          <entry key="Scratch" value="2" />
+          <entry key="UML" value="2" />
+          <entry key="XML" value="162" />
+          <entry key="YAML" value="115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="dummy" value="4" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="4040" />
+          <entry key="properties" value="1546" />
+          <entry key="sql" value="11" />
+          <entry key="txt" value="697" />
+          <entry key="xml" value="396" />
+          <entry key="yml" value="1774" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ActionScript" value="12" />
+          <entry key="CLASS" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="4040" />
+          <entry key="PLAIN_TEXT" value="733" />
+          <entry key="Properties" value="1546" />
+          <entry key="SQL" value="11" />
+          <entry key="SnakeYAML" value="25" />
+          <entry key="XML" value="396" />
+          <entry key="YAML" value="1705" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="microservice-service" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/resources/application.yml.bak1">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/ConfigServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>schema</find>
+      <find>68080</find>
+      <find>:</find>
+      <find>region</find>
+      <find>ser</find>
+      <find>/**</find>
+      <find>microservice-provider-user</find>
+      <find>/user</find>
+      <find>sensitiveHeaders</find>
+      <find>ignoreSecurityHeaders</find>
+      <find>routes</find>
+      <find>zuu</find>
+      <find>das</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/TestConfiguration2.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-with-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-with-hystrix-propagation/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon-without-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka-hystrix-dashboard/src/main/java/com/zc/cloud/MicroserviceDiscoverEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-dashboard/src/main/java/com/zc/cloud/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-dashboard/src/main/java/com/zc/cloud/MicroserviceDiscoverEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/src/main/java/com/zc/cloud/MicroserviceHystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/src/main/java/com/zc/cloud/MicroserviceHystrixTurbineApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-turbine/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/src/main/java/com/zc/cloud/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/src/main/java/com/zc/cloud/MicroserviceDiscoverEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-reg-exp/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-reg-exp/src/main/java/com/zc/cloud/MicroserviceZuulApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-reg-exp/src/main/java/com/zc/cloud/MicroserviceZuulRegExpApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-reg-exp/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-provider-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/java/com/zc/cloud/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/java/com/zc/cloud/fallback/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/java/com/zc/cloud/MicroserviceZuulApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/src/main/java/com/zc/cloud/MicroserviceZuulApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/src/main/java/com/zc/cloud/MicroserviceSideCarApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/src/main/java/com/zc/cloud/MicroserviceZuulApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/src/main/java/com/zc/cloud/PreZuulFilter.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-springcloud-config/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/MicroserviceDiscoverEurekaApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-user/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/java/com/zc/cloud/ConfigClientController.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/java/com/zc/cloud/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/tools/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\tools\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-cloud-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-cloud-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-gateway-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice-gateway-zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="237" />
+    <option name="y" value="-15" />
+    <option name="width" value="1750" />
+    <option name="height" value="945" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservice-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-cloud-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservice-service" type="58d84e3e:PackageViewProjectNode" />
+              <item name="microservicecloud" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="microservice-service" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="microservicecloud" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="ZuulFilt&#9;PSI&#9;JAVA://com.netflix.zuul.ZuulFilter&#10;FeignClient&#9;FILE&#9;jar://D:/tools/maven/Repository/org/springframework/cloud/spring-cloud-openfeign-core/2.0.1.RELEASE/spring-cloud-openfeign-core-2.0.1.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class&#10;WeightedResponseTimeRule&#9;PSI&#9;JAVA://com.netflix.loadbalancer.WeightedResponseTimeRule&#10;RibbonClientC&#9;FILE&#9;jar://D:/tools/maven/Repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.class&#10;Test&#9;FILE&#9;file://F:/my_workspace/microservice-service/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/TestConfiguration2.java&#10;application.properties&#9;FILE&#9;file://F:/my_workspace/microservice-service/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/resources/application.properties&#10;RibbonClientConfiguration&#9;FILE&#9;jar://D:/tools/maven/Repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.class&#10;TestConfiguration2&#9;null&#9;null&#10;LoadBalanc&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalanced&#10;Ribbon&#9;FILE&#9;file://F:/my_workspace/microservice-service/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/MicroserviceConsumerMovieRibbonApplication.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538964943180" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/java/com/zc/cloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30082136" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.zc.cloud.config" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\my_workspace\microservice-service\microservice-cloud-parent" />
+      <recent name="F:\my_workspace\microservice-service" />
+      <recent name="F:\my_workspace\microservice-service\" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zc.cloud.dao" />
+      <recent name="com.zc" />
+      <recent name="com.zc.cloud.entity" />
+      <recent name="com.zc.cloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\my_workspace\microservice-service\microservice-cloud-parent\microservice-config-server\src\main\resources" />
+      <recent name="F:\my_workspace\microservice-service\microservice-cloud-parent" />
+      <recent name="F:\my_workspace\microservice-service\microservice-cloud-parent\microservice-gateway-zuul\src\main\resources" />
+      <recent name="F:\my_workspace\microservice-service\microservice-cloud-parent\microservice-consumer-movie-ribbon-properties-customizing\src\main\resources" />
+      <recent name="F:\my_workspace\microservice-service\microservice-cloud-parent\microservice-consumer-movie\src\main" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zc.cloud.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18510929" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigServerApplication">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="microservice-simple-movie" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="microservice-simple-movie" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieFeignCustomizingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign-customizing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieFeignCustomizingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieFeignHtstrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieFeignHtstrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieFeignWithoutHystrixCustomizingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-feign-customizing-without-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieFeignWithoutHystrixCustomizingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieHystrixPropagationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-with-hystrix-propagation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieHystrixPropagationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMoviePropertiesCustomizingRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-properties-customizing" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMoviePropertiesCustomizingRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceConsumerMovieWithoutEurekaRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-consumer-movie-ribbon-without-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceConsumerMovieWithoutEurekaRibbonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceDiscoverEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discover-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceDiscoverEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceDiscoverEurekaHighAvailabilityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-discover-eureka-high-availability" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceDiscoverEurekaHighAvailabilityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceHystrixDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceProviderUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-provider-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceProviderUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSideCarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-sidecar" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceSideCarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSimpleMovieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-simple-movie" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceSimpleMovieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceSimpleUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-simple-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceSimpleUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceZuulFallbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-gateway-zuul-fallback" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceZuulFallbackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceZuulFilterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul-filter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceZuulFilterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroserviceZuulRegExpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-gateway-zuul-reg-exp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.MicroserviceZuulRegExpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurbineApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservice-hystrix-turbine" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zc.cloud.TurbineApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieFeignHtstrixApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleMovieApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMoviePropertiesCustomizingRibbonApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSimpleUserApplication" />
+      <item itemvalue="Spring Boot.MicroserviceProviderUserApplication" />
+      <item itemvalue="Spring Boot.MicroserviceDiscoverEurekaApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieWithoutEurekaRibbonApplication" />
+      <item itemvalue="Spring Boot.TurbineApplication" />
+      <item itemvalue="Spring Boot.MicroserviceZuulRegExpApplication" />
+      <item itemvalue="Spring Boot.MicroserviceHystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.MicroserviceZuulApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieHystrixApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieFeignApplication" />
+      <item itemvalue="Spring Boot.MicroserviceDiscoverEurekaHighAvailabilityApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieRibbonApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieHystrixPropagationApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieFeignWithoutHystrixCustomizingApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieApplication" />
+      <item itemvalue="Spring Boot.MicroserviceConsumerMovieFeignCustomizingApplication" />
+      <item itemvalue="Spring Boot.MicroserviceSideCarApplication" />
+      <item itemvalue="Spring Boot.MicroserviceZuulFilterApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.MicroserviceZuulFallbackApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigClientApplication" />
+        <item itemvalue="Spring Boot.MicroserviceZuulFallbackApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f973ada3-6873-43a9-a82d-6310660d1389" name="Default Changelist" comment="" />
+      <created>1537802568789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537802568789</updated>
+      <workItem from="1537802572979" duration="2470000" />
+      <workItem from="1537836788088" duration="3031000" />
+      <workItem from="1537844058376" duration="6389000" />
+      <workItem from="1537855885063" duration="8000" />
+      <workItem from="1537860135328" duration="5629000" />
+      <workItem from="1537885807429" duration="7857000" />
+      <workItem from="1537925704492" duration="13557000" />
+      <workItem from="1537969154271" duration="3991000" />
+      <workItem from="1537973428416" duration="127000" />
+      <workItem from="1537973664396" duration="2120000" />
+      <workItem from="1538010211299" duration="10296000" />
+      <workItem from="1538039889918" duration="2456000" />
+      <workItem from="1538059880097" duration="3223000" />
+      <workItem from="1538096970333" duration="1541000" />
+      <workItem from="1538112335494" duration="7842000" />
+      <workItem from="1538141827635" duration="202000" />
+      <workItem from="1538185510643" duration="28000" />
+      <workItem from="1538186565421" duration="18000" />
+      <workItem from="1538193581250" duration="1583000" />
+      <workItem from="1538195619781" duration="91000" />
+      <workItem from="1538195732422" duration="496000" />
+      <workItem from="1538196249829" duration="3422000" />
+      <workItem from="1538202811266" duration="9482000" />
+      <workItem from="1538212825134" duration="278000" />
+      <workItem from="1538213153932" duration="407000" />
+      <workItem from="1538213605093" duration="352000" />
+      <workItem from="1538214000675" duration="133000" />
+      <workItem from="1538214175278" duration="819000" />
+      <workItem from="1538215050413" duration="159000" />
+      <workItem from="1538229361025" duration="312000" />
+      <workItem from="1538229719438" duration="2781000" />
+      <workItem from="1538232610867" duration="260000" />
+      <workItem from="1538232904774" duration="1442000" />
+      <workItem from="1538269848511" duration="23670000" />
+      <workItem from="1538315075132" duration="2803000" />
+      <workItem from="1538387167130" duration="5636000" />
+      <workItem from="1538405935788" duration="4955000" />
+      <workItem from="1538461732795" duration="8908000" />
+      <workItem from="1538569272897" duration="9765000" />
+      <workItem from="1538656858962" duration="792000" />
+      <workItem from="1538724829949" duration="5419000" />
+      <workItem from="1538730994603" duration="11186000" />
+      <workItem from="1538812071234" duration="7099000" />
+      <workItem from="1538833246405" duration="40000" />
+      <workItem from="1538833369109" duration="372000" />
+      <workItem from="1538833763832" duration="4206000" />
+      <workItem from="1538919832622" duration="4002000" />
+      <workItem from="1538960520065" duration="3325000" />
+    </task>
+    <task id="LOCAL-00001" summary="测试">
+      <created>1538127914717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538127914717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="spring cloud学习新建项目">
+      <created>1538198945689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538198945689</updated>
+    </task>
+    <task id="LOCAL-00003" summary="默认ribbon负载均衡（轮询）和自定义ribbon负载均衡（随机）">
+      <created>1538207570265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538207570265</updated>
+    </task>
+    <task id="LOCAL-00004" summary="bug">
+      <created>1538207898624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538207898624</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加注释">
+      <created>1538208548745</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538208548745</updated>
+    </task>
+    <task id="LOCAL-00006" summary="配置文件设置ribbon负载均衡和将.properties文件转换成.yml文件">
+      <created>1538232158360</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538232158360</updated>
+    </task>
+    <task id="LOCAL-00007" summary="配置文件设置ribbon负载均衡和将.properties文件转换成.yml文件">
+      <created>1538232169825</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538232169825</updated>
+    </task>
+    <task id="LOCAL-00008" summary="bug">
+      <created>1538234166661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1538234166661</updated>
+    </task>
+    <task id="LOCAL-00009" summary="bug">
+      <created>1538234202995</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1538234202995</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bug">
+      <created>1538234242590</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1538234242590</updated>
+    </task>
+    <task id="LOCAL-00011" summary="脱离Eureka使用ribbon">
+      <created>1538275079465</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1538275079465</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Feign基础应用">
+      <created>1538291178139</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1538291178139</updated>
+    </task>
+    <task id="LOCAL-00013" summary="覆写Feign默认配置">
+      <created>1538300156929</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1538300156929</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bug">
+      <created>1538300191239</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538300191239</updated>
+    </task>
+    <task id="LOCAL-00015" summary="bug">
+      <created>1538300203839</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538300203839</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Feign logging配置">
+      <created>1538301417865</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538301417865</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第一次运行服务调用者，总是报timeout超时的解决方案">
+      <created>1538317020715</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1538317020715</updated>
+    </task>
+    <task id="LOCAL-00018" summary="在父项目pom.xml中添加漏掉子项目的module">
+      <created>1538317434644</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538317434644</updated>
+    </task>
+    <task id="LOCAL-00019" summary="元数据">
+      <created>1538388292264</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1538388292264</updated>
+    </task>
+    <task id="LOCAL-00020" summary="eureka server高可用配置">
+      <created>1538391907537</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1538391907537</updated>
+    </task>
+    <task id="LOCAL-00021" summary="hystrix">
+      <created>1538470639861</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1538470639861</updated>
+    </task>
+    <task id="LOCAL-00022" summary="feign添加hystrix支持和禁用单个的hystrix支持">
+      <created>1538572758463</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1538572758463</updated>
+    </task>
+    <task id="LOCAL-00023" summary="bug">
+      <created>1538572774400</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1538572774400</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" Hystrix Dashboard">
+      <created>1538576377847</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1538576377847</updated>
+    </task>
+    <task id="LOCAL-00025" summary=" Hystrix Dashboard">
+      <created>1538576393114</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1538576393114</updated>
+    </task>
+    <task id="LOCAL-00026" summary="bug">
+      <created>1538576727478</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1538576727478</updated>
+    </task>
+    <task id="LOCAL-00027" summary="turbine">
+      <created>1538578789074</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1538578789074</updated>
+    </task>
+    <task id="LOCAL-00028" summary="zuul和zuul指定path+serviceid">
+      <created>1538730294889</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1538730294889</updated>
+    </task>
+    <task id="LOCAL-00029" summary="hh">
+      <created>1538730362730</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1538730362730</updated>
+    </task>
+    <task id="LOCAL-00030" summary="zuul路由及zuul整合负载均衡">
+      <created>1538747799545</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1538747799545</updated>
+    </task>
+    <task id="LOCAL-00031" summary="hh">
+      <created>1538747825810</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1538747825810</updated>
+    </task>
+    <task id="LOCAL-00032" summary="between serviceId and routes by using regexmapper">
+      <created>1538748876326</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1538748876326</updated>
+    </task>
+    <task id="LOCAL-00033" summary="zuul prefix和stripPrefix及修改microservice-provider-user的服务名称">
+      <created>1538751533627</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1538751533627</updated>
+    </task>
+    <task id="LOCAL-00034" summary="修改microservice-provider-user端口号，漏了提交的一个文件">
+      <created>1538751605906</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1538751605907</updated>
+    </task>
+    <task id="LOCAL-00035" summary="解决/routes等断点不能访问">
+      <created>1538812286151</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1538812286151</updated>
+    </task>
+    <task id="LOCAL-00036" summary="hh">
+      <created>1538812312445</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1538812312445</updated>
+    </task>
+    <task id="LOCAL-00037" summary="zuul回退（hystrix断路器模式）">
+      <created>1538814012015</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1538814012015</updated>
+    </task>
+    <task id="LOCAL-00038" summary="修改端口和服务名称">
+      <created>1538814752725</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1538814752725</updated>
+    </task>
+    <task id="LOCAL-00039" summary="异构微服务">
+      <created>1538815096216</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1538815096216</updated>
+    </task>
+    <task id="LOCAL-00040" summary="修改microservice-consumer-movie微服务中Controller中user服务端口号&amp;&amp;zuul filter">
+      <created>1538817402093</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1538817402094</updated>
+    </task>
+    <task id="LOCAL-00041" summary="修改zuul filter中的端口号为8099">
+      <created>1538817596480</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1538817596480</updated>
+    </task>
+    <task id="LOCAL-00042" summary="aa">
+      <created>1538837328586</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1538837328586</updated>
+    </task>
+    <task id="LOCAL-00043" summary="springcloudConfig + git后端存储配置文件">
+      <created>1538923786499</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1538923786499</updated>
+    </task>
+    <task id="LOCAL-00044" summary="{application}通配符">
+      <created>1538964857615</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1538964857615</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="184980000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23659517" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5010571" side_tool="true" weight="0.20710456" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.30921987" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6286863" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.37131366" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49932975" weight="0.5829787" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" show_stripe_button="false" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49597856" weight="0.23120567" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49932975" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.48927614" weight="0.18014185" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50159746" side_tool="true" weight="0.13873994" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49679488" visible="true" weight="0.17828418" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.2761394" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5010571" side_tool="true" weight="0.20710456" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.30921987" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49463806" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5093834" side_tool="true" weight="0.41560283" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49932975" weight="0.5829787" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" show_stripe_button="false" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49597856" weight="0.23120567" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49932975" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49061662" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.50159746" side_tool="true" weight="0.13873994" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" sideWeight="0.49679488" weight="0.17828418" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/microservicecloud" />
+    </ignored-roots>
+    <MESSAGE value="第一次运行服务调用者，总是报timeout超时的解决方案" />
+    <MESSAGE value="在父项目pom.xml中添加漏掉子项目的module" />
+    <MESSAGE value="元数据" />
+    <MESSAGE value="eureka server高可用配置" />
+    <MESSAGE value="hystrix" />
+    <MESSAGE value="feign添加hystrix支持和禁用单个的hystrix支持" />
+    <MESSAGE value=" Hystrix Dashboard" />
+    <MESSAGE value="bug" />
+    <MESSAGE value="turbine" />
+    <MESSAGE value="zuul和zuul指定path+serviceid" />
+    <MESSAGE value="zuul路由及zuul整合负载均衡" />
+    <MESSAGE value="between serviceId and routes by using regexmapper" />
+    <MESSAGE value="zuul prefix和stripPrefix及修改microservice-provider-user的服务名称" />
+    <MESSAGE value="修改microservice-provider-user端口号，漏了提交的一个文件" />
+    <MESSAGE value="解决/routes等断点不能访问" />
+    <MESSAGE value="hh" />
+    <MESSAGE value="zuul回退（hystrix断路器模式）" />
+    <MESSAGE value="修改端口和服务名称" />
+    <MESSAGE value="异构微服务" />
+    <MESSAGE value="修改microservice-consumer-movie微服务中Controller中user服务端口号" />
+    <MESSAGE value="修改microservice-consumer-movie微服务中Controller中user服务端口号&amp;&amp;zuul filter" />
+    <MESSAGE value="修改zuul filter中的端口号为8099" />
+    <MESSAGE value="aa" />
+    <MESSAGE value="springcloudConfig + git后端存储配置文件" />
+    <MESSAGE value="{application}通配符" />
+    <option name="LAST_COMMIT_MESSAGE" value="{application}通配符" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="java-exception">
+          <dependency leave-enabled="true" master-id="0" />
+          <properties />
+        </breakpoint>
+        <breakpoint enabled="true" type="javascript-exception">
+          <dependency id="0" />
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="355" column="4" selection-start-line="355" selection-start-column="4" selection-end-line="355" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/MediaType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="88" column="34" selection-start-line="88" selection-start-column="34" selection-end-line="88" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.3/eureka-client-1.9.3-sources.jar!/com/netflix/discovery/EurekaClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="40" column="47" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/java/com/zc/cloud/fallback/MyFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/java/com/zc/cloud/MicroserviceZuulFallbackApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.1.RELEASE/spring-cloud-commons-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/client/circuitbreaker/EnableCircuitBreaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.1.RELEASE/spring-cloud-netflix-zuul-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/EnableZuulProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.1.RELEASE/spring-cloud-netflix-zuul-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/zuul/ZuulProxyMarkerConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/src/main/java/com/zc/cloud/MicroserviceDiscoverEurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-sidecar/2.0.1.RELEASE/spring-cloud-netflix-sidecar-2.0.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/src/main/java/com/zc/cloud/MicroserviceSideCarApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-fallback/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-sidecar/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul/src/main/java/com/zc/cloud/MicroserviceZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/ZuulFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1287">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie/src/main/java/com/zc/cloud/MicroserviceConsumerMovieApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie/src/main/java/com/zc/cloud/controller/MovieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/src/main/java/com/zc/cloud/MicroserviceZuulFilterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/src/main/java/com/zc/cloud/PreZuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-gateway-zuul-filter/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-discover-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/config/WebSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-user/src/main/java/com/zc/cloud/MicroserviceSimpleUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-simple-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-hystrix-dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-config/2.0.1.RELEASE/spring-cloud-starter-config-2.0.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="28" column="63" lean-forward="true" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.zc.cloud:microservice-config-client:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.zc.cloud:microservice-config-client:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.zc.cloud:microservice-config-client:1.0-SNAPSHOT</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot:jar:2.0.5.RELEASE/org.springframework:spring-context:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot:jar:2.0.5.RELEASE/org.springframework:spring-context:jar:5.0.9.RELEASE/org.springframework:spring-aop:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot:jar:2.0.5.RELEASE/org.springframework:spring-context:jar:5.0.9.RELEASE/org.springframework:spring-expression:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.10.0/org.apache.logging.log4j:log4j-api:jar:2.10.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.0.5.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework:spring-core:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.springframework:spring-core:jar:5.0.9.RELEASE/org.springframework:spring-jcl:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-starter:jar:2.0.5.RELEASE/org.yaml:snakeyaml:jar:1.19</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-context:jar:2.0.1.RELEASE/org.springframework.security:spring-security-crypto:jar:5.0.8.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.56</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:2.0.1.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.5.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.56/org.bouncycastle:bcprov-jdk15on:jar:1.56</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-config-client:jar:2.0.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-config-client:jar:2.0.1.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.0.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-config-client:jar:2.0.1.RELEASE/org.springframework:spring-web:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-config-client:jar:2.0.1.RELEASE/org.springframework:spring-web:jar:5.0.9.RELEASE/org.springframework:spring-beans:jar:5.0.9.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/org.springframework.cloud:spring-cloud-config-client:jar:2.0.1.RELEASE/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-config:jar:2.0.1.RELEASE/com.fasterxml.jackson.core:jackson-databind:jar:2.9.6/com.fasterxml.jackson.core:jackson-core:jar:2.9.6</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.701195219123506" x="982.0" y="445.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/java/com/zc/cloud/controller/ConfigClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/java/com/zc/cloud/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE-sources.jar!/org/springframework/cloud/netflix/ribbon/RibbonClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/MicroserviceConsumerMovieRibbonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="17" column="76" lean-forward="true" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/TestConfiguration2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/ExcludeFromComponentScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-hystrix/src/main/java/com/zc/cloud/MicroserviceConsumerMovieFeignHtstrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-consumer-movie-feign-hystrix/src/main/java/com/zc/cloud/dao/UserFeginClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.0.1.RELEASE/spring-cloud-openfeign-core-2.0.1.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/resources/application.yml.bak1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2761021" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48767966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (microservice-consumer-movie-ribbon)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48767966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48767966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.48767966" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservice-hystrix-turbine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30082136" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30082136" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

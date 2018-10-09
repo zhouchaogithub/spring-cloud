@@ -10,8 +10,8 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f973ada3-6873-43a9-a82d-6310660d1389" name="Default Changelist" comment="{application}通配符">
-      <change beforePath="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-cloud-parent/microservice-config-server/src/main/java/com/zc/cloud/ConfigServerApplication.java" afterDir="false" />
+    <list default="true" id="f973ada3-6873-43a9-a82d-6310660d1389" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/microservice-simple-user/target/" />
     <ignored path="$PROJECT_DIR$/microservice-simple-movie/target/" />
@@ -86,8 +86,8 @@
     <session id="-1519389300">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="47" />
-          <entry key="project.open.time.0" value="5" />
+          <entry key="project.closed" value="48" />
+          <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.126" value="1" />
@@ -119,7 +119,7 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="50" />
+          <entry key="project.opened" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -164,7 +164,7 @@
           <entry key="java" value="4041" />
           <entry key="properties" value="1546" />
           <entry key="sql" value="11" />
-          <entry key="txt" value="697" />
+          <entry key="txt" value="700" />
           <entry key="xml" value="396" />
           <entry key="yml" value="1782" />
         </counts>
@@ -175,7 +175,7 @@
           <entry key="CLASS" value="4" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="4041" />
-          <entry key="PLAIN_TEXT" value="733" />
+          <entry key="PLAIN_TEXT" value="736" />
           <entry key="Properties" value="1546" />
           <entry key="SQL" value="11" />
           <entry key="SnakeYAML" value="25" />
@@ -387,23 +387,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="microservice-service" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice-cloud-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
               <item name="microservice-service" type="58d84e3e:PackageViewProjectNode" />
               <item name="microservicecloud" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservice-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservice-cloud-parent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,7 +430,7 @@
     <property name="SearchEverywhereHistoryKey" value="ZuulFilt&#9;PSI&#9;JAVA://com.netflix.zuul.ZuulFilter&#10;FeignClient&#9;FILE&#9;jar://D:/tools/maven/Repository/org/springframework/cloud/spring-cloud-openfeign-core/2.0.1.RELEASE/spring-cloud-openfeign-core-2.0.1.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class&#10;WeightedResponseTimeRule&#9;PSI&#9;JAVA://com.netflix.loadbalancer.WeightedResponseTimeRule&#10;RibbonClientC&#9;FILE&#9;jar://D:/tools/maven/Repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.class&#10;Test&#9;FILE&#9;file://F:/my_workspace/microservice-service/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/TestConfiguration2.java&#10;application.properties&#9;FILE&#9;file://F:/my_workspace/microservice-service/microservice-cloud-parent/microservice-consumer-movie-ribbon/src/main/resources/application.properties&#10;RibbonClientConfiguration&#9;FILE&#9;jar://D:/tools/maven/Repository/org/springframework/cloud/spring-cloud-netflix-ribbon/2.0.1.RELEASE/spring-cloud-netflix-ribbon-2.0.1.RELEASE.jar!/org/springframework/cloud/netflix/ribbon/RibbonClientConfiguration.class&#10;TestConfiguration2&#9;null&#9;null&#10;LoadBalanc&#9;PSI&#9;JAVA://org.springframework.cloud.client.loadbalancer.LoadBalanced&#10;Ribbon&#9;FILE&#9;file://F:/my_workspace/microservice-service/microservice-consumer-movie-ribbon/src/main/java/com/zc/cloud/MicroserviceConsumerMovieRibbonApplication.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539062189724" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539063943003" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -812,6 +812,7 @@
       <workItem from="1538960520065" duration="9296000" />
       <workItem from="1538983874541" duration="4640000" />
       <workItem from="1539060304323" duration="1642000" />
+      <workItem from="1539063876927" duration="113000" />
     </task>
     <task id="LOCAL-00001" summary="测试">
       <created>1538127914717</created>
@@ -1121,11 +1122,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538964857615</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="xml">
+      <created>1539063897152</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1539063897152</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="197233000" />
+    <option name="totallyTimeSpent" value="197346000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1138,9 +1146,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.16152816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.16353887" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1222,7 +1229,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/microservicecloud" />
     </ignored-roots>
-    <MESSAGE value="第一次运行服务调用者，总是报timeout超时的解决方案" />
     <MESSAGE value="在父项目pom.xml中添加漏掉子项目的module" />
     <MESSAGE value="元数据" />
     <MESSAGE value="eureka server高可用配置" />
@@ -1247,7 +1253,8 @@
     <MESSAGE value="aa" />
     <MESSAGE value="springcloudConfig + git后端存储配置文件" />
     <MESSAGE value="{application}通配符" />
-    <option name="LAST_COMMIT_MESSAGE" value="{application}通配符" />
+    <MESSAGE value="xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
